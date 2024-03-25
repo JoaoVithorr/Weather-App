@@ -96,7 +96,7 @@ def info():
     
     l_umidade['text'] = umidade
     l_umidade_simbol['text'] = "%"
-    l_umidade_nome['text'] = "Humidade"
+    l_umidade_nome['text'] = "umidade"
     
     l_velocidade['text'] = "velocidade do vento : "+ str(velocidade)
     
